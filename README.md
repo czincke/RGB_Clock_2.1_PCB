@@ -12,3 +12,5 @@ Materials:
 <tr><td> 1 </td><td> DS3231 Precision RTC Breakout	                               </td><td> https://www.adafruit.com/products/3013 </td></tr>
 <tr><td> 1 </td><td> Adafruit Trinket - Mini Microcontroller - 5V Logic (ATTiny85) </td><td> https://www.adafruit.com/products/1501 </td></tr>
 </table>
+
+See: https://github.com/czincke/RGB_Clock_2.1_Code for Software Code.
